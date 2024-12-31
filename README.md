@@ -59,4 +59,4 @@ Download the zip folder
 - Open Terminal:
 make
 - ./project
-
+![Screenshot from 2024-12-30 20-53-02](https://github.com/user-attachments/assets/33b6aac7-46ce-418a-a495-3895bf5cf48d)
