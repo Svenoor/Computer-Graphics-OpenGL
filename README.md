@@ -58,5 +58,5 @@ On Ubuntu/Debian:
 Download the zip folder
 - Open Terminal:
 make
-./project
+- ./project
 
