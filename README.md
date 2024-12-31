@@ -5,7 +5,7 @@ This project simulates a small city with roads, traffic lights, buildings, and a
 ---
 
 ## Features
-1. **Car Simulation**  
+1. **Car Simulation**  (Use arrow keys to drive around)
    - Drive a car around the grid with adjustable speed, rotation, and animated wheels.
 
 2. **Traffic Lights**  
@@ -14,7 +14,7 @@ This project simulates a small city with roads, traffic lights, buildings, and a
 3. **City Layout**  
    - Roads, buildings, and ground plane arranged in a grid.
 
-4. **Multiple Camera Views**  
+4. **Multiple Camera Views**  (F1, F2, F3, and F4)
    - Switch among default, overhead, side, and driver’s (inside) views.
 
 5. **Collision Detection**  
