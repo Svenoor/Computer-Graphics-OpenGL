@@ -1,4 +1,4 @@
-# CPSC-3710 City Scene Simulation
+# City Scene Simulation
 
 This project simulates a small city with roads, traffic lights, buildings, and a drivable car using **OpenGL**, **GLUT**, and **C++**. It demonstrates hierarchical transformations, basic collision detection, multiple camera views, and real-time updates (e.g., traffic light changes).
 
